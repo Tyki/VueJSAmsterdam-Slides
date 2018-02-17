@@ -123,7 +123,7 @@ UNIT TESTING VUE COMPONENTS: WHY TEST, WHAT TO TEST, AND HOW TO TEST VUE COMPONE
 
 SEBASTIEN CHOPIN  
 HOW TO SERVER-RENDER AN APPLICATION WITH VUE.JS  
-[Slides](https://github.com/Atinux/vue-ssr-amsterdam)  
+[Demo](https://github.com/Atinux/vue-ssr-amsterdam)  
 Slides?  
 
 GERARD SANS  
