@@ -5,18 +5,17 @@ Feel free to submit PR to complete the list
 
 # Day 1
 
-SARAH DRASNER
-VUEJS TALK
-ANIMATING VUE: HOW CAPABLE AND ELEGANT IS VUE.JS IN TERMS OF ANIMATION
+SARAH DRASNER  
+VUEJS TALK  
+ANIMATING VUE: HOW CAPABLE AND ELEGANT IS VUE.JS IN TERMS OF ANIMATION  
+[http://slides.com/sdrasner/animating-vue-f17](Slides)  
+Video ?  
 
-[http://slides.com/sdrasner/animating-vue-f17](Slides)
-Video ?
-
-MICHEL WESTSTRATE
-REACTJS TALK
-REACT; IT'S NOT A FRAMEWORK FOR THE UI, BUT A FRAMEWORK FOR THE MIND.
-[http://thinkinginreact.surge.sh/#/](Slides)
-Video ?
+MICHEL WESTSTRATE  
+REACTJS TALK  
+REACT; IT'S NOT A FRAMEWORK FOR THE UI, BUT A FRAMEWORK FOR THE MIND.  
+[http://thinkinginreact.surge.sh/#/](Slides)  
+Video ?  
 
 SIMONA COTIN
 ANGULARJS TALK
