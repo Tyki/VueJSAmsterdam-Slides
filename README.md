@@ -87,7 +87,7 @@ Slides?
 JEN LOOPER  
 NATIVESCRIPT TALK  
 GOUDA, EDAM, OR MAASDAMMER: COMPARING NATIVESCRIPT, IONIC, AND REACT NATIVE FOR MOBILE APPS  
-Slides?  
+[http://slides.com/telerikdevrel/ns-rn-ionic#/](Slides)
 
 # Day 2
 
