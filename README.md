@@ -8,25 +8,25 @@ Feel free to submit PR to complete the list
 SARAH DRASNER  
 VUEJS TALK  
 ANIMATING VUE: HOW CAPABLE AND ELEGANT IS VUE.JS IN TERMS OF ANIMATION  
-[http://slides.com/sdrasner/animating-vue-f17](Slides)  
+[Slides](http://slides.com/sdrasner/animating-vue-f17)  
 Video ?  
 
 MICHEL WESTSTRATE  
 REACTJS TALK  
 REACT; IT'S NOT A FRAMEWORK FOR THE UI, BUT A FRAMEWORK FOR THE MIND.  
-[http://thinkinginreact.surge.sh/#/](Slides)  
+[Slides](http://thinkinginreact.surge.sh/#/)  
 Video ?  
 
 SIMONA COTIN  
 ANGULARJS TALK  
 BUILD PROGRESSIVE WEB APPS WITH ANGULAR.  
-[https://www.slideshare.net/SimonaCotin/build-progressive-web-apps-with-angular](Slides)  
+[Slides](https://www.slideshare.net/SimonaCotin/build-progressive-web-apps-with-angular)  
 Video ?  
 
 LUCA MEZZALIRA  
 REACTJS TALK  
 MOBX STATE TREE + REACT: PURE REACTIVITY SERVED  
-[https://docs.google.com/presentation/d/1f18RhN9hz1GPAdY4binWVNZDKm3k7EfNvV48lWnzdjQ/edit#slide=id.g35f391192_00](Slides)  
+[Slides](https://docs.google.com/presentation/d/1f18RhN9hz1GPAdY4binWVNZDKm3k7EfNvV48lWnzdjQ/edit#slide=id.g35f391192_00])  
 Video ?  
 
 ALEXANDRE & SÉBASTIEN CHOPIN  
@@ -38,7 +38,7 @@ Video ?
 MANFRED STEYER  
 ANGULARJS TALK  
 AUTOMATING BORING PROGRAMMING TASKS WITH THE ANGULAR CLI AND SCHEMATICS  
-[https://speakerdeck.com/manfredsteyer/automating-boring-tasks-with-the-angular-cli-and-schematics](Slides)  
+[Slides](https://speakerdeck.com/manfredsteyer/automating-boring-tasks-with-the-angular-cli-and-schematics])  
 Video ?  
 
 KITZE RISTOVSKI  
@@ -56,7 +56,7 @@ Video?
 GERARD SANS  
 ANGULARJS TALK  
 WHY NOBODY TOLD ME ABOUT NGRX/ENTITY?  
-[http://slides.com/gerardsans/frontendlove-ngrx-entity](Slides)  
+[Slides](http://slides.com/gerardsans/frontendlove-ngrx-entity])  
 Video?  
 
 PRASHANT PALIKHE  
@@ -87,7 +87,7 @@ Slides?
 JEN LOOPER  
 NATIVESCRIPT TALK  
 GOUDA, EDAM, OR MAASDAMMER: COMPARING NATIVESCRIPT, IONIC, AND REACT NATIVE FOR MOBILE APPS  
-[http://slides.com/telerikdevrel/ns-rn-ionic#/](Slides)
+[Slides](http://slides.com/telerikdevrel/ns-rn-ionic#/)
 
 # Day 2
 
@@ -97,11 +97,11 @@ Slides?
 
 ROMAN KUBA  
 SCALING VUE IN AN EXISTING STACK  
-[https://speakerdeck.com/codebryo/adding-vue-to-an-existing-stack-and-get-ready-to-scale#](Slides)  
+[Slides](https://speakerdeck.com/codebryo/adding-vue-to-an-existing-stack-and-get-ready-to-scale#)  
 
 GUILLAUME CHAU  
 APOLLO, GRAPHQL AND VUE: THE ULTIMATE STACK  
-[http://slides.com/akryum/vue-amsterdam-2018#/](Slides)  
+[Slides](http://slides.com/akryum/vue-amsterdam-2018#/)
 Video?  
 
 ALEXANDRE CHOPIN  
@@ -119,11 +119,11 @@ Slides?
 
 EDD YERBURGH  
 UNIT TESTING VUE COMPONENTS: WHY TEST, WHAT TO TEST, AND HOW TO TEST VUE COMPONENTS  
-[http://slides.com/eddyerburgh/testing-vue-components#/](Slides)  
+[Slides](http://slides.com/eddyerburgh/testing-vue-components#/])  
 
 SEBASTIEN CHOPIN  
 HOW TO SERVER-RENDER AN APPLICATION WITH VUE.JS  
-[https://github.com/Atinux/vue-ssr-amsterdam](Demo)  
+[Slides](https://github.com/Atinux/vue-ssr-amsterdam)  
 Slides?  
 
 GERARD SANS  
@@ -136,7 +136,7 @@ Slides?
 
 JEN LOOPER  
 CREATE AN ENGAGING NATIVE MOBILE APP WITH VUE AND NATIVESCRIPT  
-[http://slides.com/telerikdevrel/ns-vue#/](Slides)  
+[Slides](http://slides.com/telerikdevrel/ns-vue#/])  
 
 SARAH DRASNER  
 SERVERLESS FUNCTIONS AND VUE.JS: FOCUS ON VUE APPLICATION DEVELOPMENT BY DEPLOYING AND OPERATING SERVERLESS ARCHITECTURES  
