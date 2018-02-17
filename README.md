@@ -110,7 +110,7 @@ Slides?
 
 EDUARDO SAN MARTIN MOROTE  
 STATE ANIMATIONS: GETTING THEM RIGHT  
-[https://github.com/posva/state-animation-demos](Demo GitHub)  
+[https://github.com/posva/state-animation-demos](Demo)  
 
 PLAMEN ZDRAVKOV  
 BUILDING REUSABLE UI COMPONENTS IN VUE. WHAT HAVE WE LEARNED FROM BUILDING THEM FOR KENDOUI  
@@ -122,7 +122,7 @@ UNIT TESTING VUE COMPONENTS: WHY TEST, WHAT TO TEST, AND HOW TO TEST VUE COMPONE
 
 SEBASTIEN CHOPIN  
 HOW TO SERVER-RENDER AN APPLICATION WITH VUE.JS  
-[https://github.com/Atinux/vue-ssr-amsterdam](Demo Github)  
+[https://github.com/Atinux/vue-ssr-amsterdam](Demo)  
 Slides?  
 
 GERARD SANS  
