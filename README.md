@@ -132,7 +132,7 @@ Slides?
 
 IVES VAN HOORNE  
 VUE DEVELOPMENT IN CODESANDBOX  
-Slides?  
+[Slides](http://slides.com/ivesvanhoorne/vue-amsterdam)
 
 JEN LOOPER  
 CREATE AN ENGAGING NATIVE MOBILE APP WITH VUE AND NATIVESCRIPT  
