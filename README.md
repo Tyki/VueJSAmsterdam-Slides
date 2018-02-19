@@ -106,7 +106,7 @@ Video?
 
 ALEXANDRE CHOPIN  
 SPEED UP YOUR VUE.JS DEVELOPMENT TIME WITH NUXT.  
-[Slides](https://github.com/alexchopin/conferences/blob/master/VueAmsterdam/speed_up_your_vuejs_dev_with_nuxtjs.pdf)  
+[Slides](https://github.com/alexchopin/conferences/blob/master/VueAmsterdam/speed_up_your_vuejs_dev_with_nuxtjs.pdf)
 
 EDUARDO SAN MARTIN MOROTE  
 STATE ANIMATIONS: GETTING THEM RIGHT
