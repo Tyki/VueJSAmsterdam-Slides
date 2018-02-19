@@ -32,7 +32,7 @@ Video ?
 ALEXANDRE & SÉBASTIEN CHOPIN  
 VUEJS TALK  
 START USING VUE.JS LIKE JQUERY  
-Slides?  
+[Slides](https://github.com/alexchopin/conferences/blob/master/VueAmsterdam/use_vuejs_like_jquery.pdf)
 Video ?  
 
 MANFRED STEYER  
@@ -106,7 +106,7 @@ Video?
 
 ALEXANDRE CHOPIN  
 SPEED UP YOUR VUE.JS DEVELOPMENT TIME WITH NUXT.  
-Slides?  
+[Slides](https://github.com/alexchopin/conferences/blob/master/VueAmsterdam/speed_up_your_vuejs_dev_with_nuxtjs.pdf)
 
 EDUARDO SAN MARTIN MOROTE  
 STATE ANIMATIONS: GETTING THEM RIGHT
