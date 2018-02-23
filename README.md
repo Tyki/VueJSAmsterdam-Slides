@@ -82,7 +82,7 @@ Slides?
 TIM VAN DER LIPPE  
 POLYMER / WEBCOMPONENTS  
 WHEN TO USE WEB COMPONENTS  
-Slides?  
+[Slides](https://speakerdeck.com/timvdlippe/when-to-use-web-components) 
 
 JEN LOOPER  
 NATIVESCRIPT TALK  
