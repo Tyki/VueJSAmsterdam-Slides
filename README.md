@@ -56,7 +56,7 @@ Video?
 GERARD SANS  
 ANGULARJS TALK  
 WHY NOBODY TOLD ME ABOUT NGRX/ENTITY?  
-[Slides](http://slides.com/gerardsans/frontendlove-ngrx-entity])  
+[Slides](http://slides.com/gerardsans/frontendlove-ngrx-entity)  
 Video?  
 
 PRASHANT PALIKHE  
@@ -82,7 +82,7 @@ Slides?
 TIM VAN DER LIPPE  
 POLYMER / WEBCOMPONENTS  
 WHEN TO USE WEB COMPONENTS  
-Slides?  
+[Slides](https://speakerdeck.com/timvdlippe/when-to-use-web-components) 
 
 JEN LOOPER  
 NATIVESCRIPT TALK  
