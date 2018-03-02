@@ -58,7 +58,7 @@ Video?
 GERARD SANS  
 ANGULARJS TALK  
 WHY NOBODY TOLD ME ABOUT NGRX/ENTITY?  
-[Slides](http://slides.com/gerardsans/frontendlove-ngrx-entity])  
+[Slides](http://slides.com/gerardsans/frontendlove-ngrx-entity)  
 Video?  
 
 PRASHANT PALIKHE  
@@ -74,7 +74,7 @@ Slides?
 NORBERT DE LANGEN  
 STORYBOOK TALK  
 BUILDING A COMPONENT LIBRARY WITH REACT, VUE, ANGULAR OR WEBCOMPONENTS  
-Slides?  
+[Slides](https://docs.google.com/presentation/d/1Zop0rZ_PjUdDPoImYsZj-RcPLW1FDpVRBDkROBd1XXY)  
 
 IVANA SETIAWAN  
 FRONTEND DECISION TREE  
@@ -84,7 +84,7 @@ Slides?
 TIM VAN DER LIPPE  
 POLYMER / WEBCOMPONENTS  
 WHEN TO USE WEB COMPONENTS  
-Slides?  
+[Slides](https://speakerdeck.com/timvdlippe/when-to-use-web-components) 
 
 JEN LOOPER  
 NATIVESCRIPT TALK  
@@ -130,8 +130,8 @@ UNIT TESTING VUE COMPONENTS: WHY TEST, WHAT TO TEST, AND HOW TO TEST VUE COMPONE
 
 SEBASTIEN CHOPIN  
 HOW TO SERVER-RENDER AN APPLICATION WITH VUE.JS  
-[Demo](https://github.com/Atinux/vue-ssr-amsterdam)   
-Slides?  
+[Demo](https://github.com/Atinux/vue-ssr-amsterdam)  
+[Slides](https://github.com/Atinux/vue-ssr-amsterdam/blob/master/vue-ssr-amsterdam.key)
 
 GERARD SANS  
 MOVING FROM ANGULAR (V5+) TO VUE  
