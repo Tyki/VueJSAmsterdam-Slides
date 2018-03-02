@@ -5,29 +5,31 @@ Feel free to submit PR to complete the list
 
 # Day 1
 
+[YouTube Playlist](https://www.youtube.com/watch?v=LLnVLjpY6gE&list=PL02pdjMT4gWxC18hHyLLH0GPvjUtoalzS)
+
 SARAH DRASNER  
 VUEJS TALK  
 ANIMATING VUE: HOW CAPABLE AND ELEGANT IS VUE.JS IN TERMS OF ANIMATION  
 [Slides](http://slides.com/sdrasner/animating-vue-f17)  
-Video ?  
+[Video](https://www.youtube.com/watch?v=LLnVLjpY6gE)
 
 MICHEL WESTSTRATE  
 REACTJS TALK  
 REACT; IT'S NOT A FRAMEWORK FOR THE UI, BUT A FRAMEWORK FOR THE MIND.  
 [Slides](http://thinkinginreact.surge.sh/#/)  
-Video ?  
+[Video](https://www.youtube.com/watch?v=clTP9hJWsrE)
 
 SIMONA COTIN  
 ANGULARJS TALK  
 BUILD PROGRESSIVE WEB APPS WITH ANGULAR.  
 [Slides](https://www.slideshare.net/SimonaCotin/build-progressive-web-apps-with-angular)  
-Video ?  
+[Video](https://www.youtube.com/watch?v=zsxeA8kJBbo)
 
 LUCA MEZZALIRA  
 REACTJS TALK  
 MOBX STATE TREE + REACT: PURE REACTIVITY SERVED  
 [Slides](https://docs.google.com/presentation/d/1f18RhN9hz1GPAdY4binWVNZDKm3k7EfNvV48lWnzdjQ/edit#slide=id.g35f391192_00])  
-Video ?  
+Video
 
 ALEXANDRE & SÉBASTIEN CHOPIN  
 VUEJS TALK  
@@ -91,22 +93,27 @@ GOUDA, EDAM, OR MAASDAMMER: COMPARING NATIVESCRIPT, IONIC, AND REACT NATIVE FOR 
 
 # Day 2
 
+[YouTube Playlist](https://www.youtube.com/watch?v=XmouoW1Gfro&list=PL02pdjMT4gWxcVpwqNpnh3--hX2rr_XCU)
+
 EVAN YOU  
 KEYNOTE SPEECH ON THE PAST, PRESENT AND FUTURE OF VUE.JS  
 Slides?  
+[Video](https://www.youtube.com/watch?v=TRJMT9yjONQ)
 
 ROMAN KUBA  
 SCALING VUE IN AN EXISTING STACK  
 [Slides](https://speakerdeck.com/codebryo/adding-vue-to-an-existing-stack-and-get-ready-to-scale#)  
+[Video](https://www.youtube.com/watch?v=XmouoW1Gfro)
 
 GUILLAUME CHAU  
 APOLLO, GRAPHQL AND VUE: THE ULTIMATE STACK  
-[Slides](http://slides.com/akryum/vue-amsterdam-2018#/)
-Video?  
+[Slides](http://slides.com/akryum/vue-amsterdam-2018#/)  
+[Video](https://www.youtube.com/watch?v=nq5q_gOOimA) 
 
 ALEXANDRE CHOPIN  
 SPEED UP YOUR VUE.JS DEVELOPMENT TIME WITH NUXT.  
-[Slides](https://github.com/alexchopin/conferences/blob/master/VueAmsterdam/speed_up_your_vuejs_dev_with_nuxtjs.pdf)
+[Slides](https://github.com/alexchopin/conferences/blob/master/VueAmsterdam/speed_up_your_vuejs_dev_with_nuxtjs.pdf)  
+[Video](https://www.youtube.com/watch?v=4wQpuJo6RzM)
 
 EDUARDO SAN MARTIN MOROTE  
 STATE ANIMATIONS: GETTING THEM RIGHT
@@ -119,20 +126,20 @@ Slides?
 
 EDD YERBURGH  
 UNIT TESTING VUE COMPONENTS: WHY TEST, WHAT TO TEST, AND HOW TO TEST VUE COMPONENTS  
-[Slides](http://slides.com/eddyerburgh/testing-vue-components#/])  
+[Slides](http://slides.com/eddyerburgh/testing-vue-components#/)
 
 SEBASTIEN CHOPIN  
 HOW TO SERVER-RENDER AN APPLICATION WITH VUE.JS  
-[Demo](https://github.com/Atinux/vue-ssr-amsterdam)  
+[Demo](https://github.com/Atinux/vue-ssr-amsterdam)   
 Slides?  
 
 GERARD SANS  
 MOVING FROM ANGULAR (V5+) TO VUE  
-Slides?  
+[Slides](http://slides.com/gerardsans/ngeurope-vue#/)
 
 IVES VAN HOORNE  
 VUE DEVELOPMENT IN CODESANDBOX  
-Slides?  
+[Slides](http://slides.com/ivesvanhoorne/vue-amsterdam#/)
 
 JEN LOOPER  
 CREATE AN ENGAGING NATIVE MOBILE APP WITH VUE AND NATIVESCRIPT  
@@ -140,4 +147,4 @@ CREATE AN ENGAGING NATIVE MOBILE APP WITH VUE AND NATIVESCRIPT
 
 SARAH DRASNER  
 SERVERLESS FUNCTIONS AND VUE.JS: FOCUS ON VUE APPLICATION DEVELOPMENT BY DEPLOYING AND OPERATING SERVERLESS ARCHITECTURES  
-Slides?  
+Slides? 
