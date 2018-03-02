@@ -116,8 +116,8 @@ SPEED UP YOUR VUE.JS DEVELOPMENT TIME WITH NUXT.
 [Video](https://www.youtube.com/watch?v=4wQpuJo6RzM)
 
 EDUARDO SAN MARTIN MOROTE  
-STATE ANIMATIONS: GETTING THEM RIGHT
-[Slides](https://slides.com/posva/state-animations/)
+STATE ANIMATIONS: GETTING THEM RIGHT  
+[Slides](https://slides.com/posva/state-animations/)  
 [Demo](https://github.com/posva/state-animation-demos)  
 
 PLAMEN ZDRAVKOV  
