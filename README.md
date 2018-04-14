@@ -53,7 +53,7 @@ EDUARDO SAN MARTIN MOROTE
 VUEJS TALK  
 VUE, SIMPLE YET SCALABLE  
 [Slides](https://slides.com/posva/vue-simple-yet-scalable)
-Video?  
+[Video](https://www.youtube.com/watch?v=tqRm8fVJbWk)
 
 GERARD SANS  
 ANGULARJS TALK  
@@ -118,7 +118,8 @@ SPEED UP YOUR VUE.JS DEVELOPMENT TIME WITH NUXT.
 EDUARDO SAN MARTIN MOROTE  
 STATE ANIMATIONS: GETTING THEM RIGHT  
 [Slides](https://slides.com/posva/state-animations/)  
-[Demo](https://github.com/posva/state-animation-demos)  
+[Demo](https://github.com/posva/state-animation-demos)
+[Video](https://www.youtube.com/watch?v=A6FPWsPdfuc)
 
 PLAMEN ZDRAVKOV  
 BUILDING REUSABLE UI COMPONENTS IN VUE. WHAT HAVE WE LEARNED FROM BUILDING THEM FOR KENDOUI  
